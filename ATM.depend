@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1663862349 source:d:\egfwd\atm project\project\atm\application\app.c
+	"app.h"
+
+1663832036 source:d:\egfwd\atm project\project\atm\server\server.c
+	"server.h"
+	<stdio.h>
+	<stdlib.h>
+
+1663792247 source:d:\egfwd\atm project\project\atm\terminal\terminal.c
+	"terminal.h"
+
+1663805885 source:d:\egfwd\atm project\project\atm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"std.h"
+	"Card/card.h"
+	"Terminal/terminal.h"
+	"Server/server.h"
+	<string.h>
+
+1636578704 d:\egfwd\atm project\project\atm\std.h
+
+1663788932 d:\egfwd\atm project\project\atm\card\card.h
+
+1663803117 source:d:\egfwd\atm project\project\atm\card\card.c
+	"card.h"
+
+1663785139 d:\egfwd\atm project\project\atm\terminal\terminal.h
+	"../Card/card.h"
+
+1663784301 d:\egfwd\atm project\project\atm\server\server.h
+	"../Card/card.h"
+	"../Terminal/terminal.h"
+
+1663805930 d:\egfwd\atm project\project\atm\application\app.h
+	"../Card/card.h"
+	"../Terminal/terminal.h"
+	"../Server/server.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
